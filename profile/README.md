@@ -2,10 +2,7 @@
 
 [broccolimicro.io](https://broccolimicro.io)
 
-Broccoli is developing a novel reconfigurable array architecture for signal
-processing. We specialize in the design of custom timed and non-deterministic
-control structures to optimize compute architecture for program workload
-characteristics.
+Broccoli develops reconfigurable arrays for signal processing.
 
 ## Tooling
 
